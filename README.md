@@ -12,7 +12,7 @@ I’m a Computer Science graduate from the University of Limpopo, focused on web
 ## Skills
 
 <details>
-<summary><b>Click to expand my full skill set</b></summary>
+
 
 <br>
 
@@ -35,7 +35,6 @@ I’m a Computer Science graduate from the University of Limpopo, focused on web
 ## Education
 
 <details>
-<summary><b>Click to expand</b></summary>
 
 <br>
 
