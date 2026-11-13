@@ -11,11 +11,6 @@ I’m a Computer Science graduate from the University of Limpopo, focused on web
 
 ## Skills
 
-<details>
-
-
-<br>
-
 **Web development:** HTML, CSS, JavaScript, full-stack development
 
 **Programming languages:** Python, C++
@@ -30,17 +25,10 @@ I’m a Computer Science graduate from the University of Limpopo, focused on web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-</details>
 
 ## Education
 
-<details>
-
-<br>
-
 **Bachelor of Science in Computer Science**, University of Limpopo, Turfloop
-
-</details>
 
 ## Find me
 
